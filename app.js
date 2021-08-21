@@ -9,7 +9,7 @@ refs.buttonStop.addEventListener("click", bodyColorStop);
 
 const randomIntegerFromInterval = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
-}; // генерирует случайное число
+}; // генерує випадкове число
 
 const colors = [
   "#FFFFFF",
